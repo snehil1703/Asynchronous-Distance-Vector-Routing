@@ -1,0 +1,5 @@
+a bandicoot.soic.indiana.edu
+b blesmol.soic.indiana.edu
+c bobac.soic.indiana.edu
+d degu.soic.indiana.edu
+e jerboa.soic.indiana.edu

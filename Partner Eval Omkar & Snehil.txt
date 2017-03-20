@@ -1,0 +1,4 @@
+It was very nice and professional experience to work with Snehil Vishwakarma. 
+We divided our work in modules, and helped each other out in our difficulties.
+He worked on sockets and initialisation, and I worked on multithreading and bellman.
+Would like to work with him again.

@@ -1,0 +1,4 @@
+a yes
+b no
+c no
+d yes
